@@ -1,0 +1,1718 @@
+[
+  {
+    "name": "gw",
+    "type": "NN",
+    "count": 28.0,
+    "quantile_count": 0.8274647887
+  },
+  {
+    "name": "gu",
+    "type": "NN",
+    "count": 11.0,
+    "quantile_count": 0.4947183099
+  },
+  {
+    "name": "young",
+    "type": "JJ",
+    "count": 32.0,
+    "quantile_count": 0.8679577465
+  },
+  {
+    "name": "gentleman",
+    "type": "JJ",
+    "count": 9.0,
+    "quantile_count": 0.4577464789
+  },
+  {
+    "name": "kdrama",
+    "type": "NN",
+    "count": 33.0,
+    "quantile_count": 0.875
+  },
+  {
+    "name": "half",
+    "type": "NN",
+    "count": 2.0,
+    "quantile_count": 0.0845070423
+  },
+  {
+    "name": "cheap",
+    "type": "JJ",
+    "count": 4.0,
+    "quantile_count": 0.2693661972
+  },
+  {
+    "name": "focus",
+    "type": "NN",
+    "count": 2.0,
+    "quantile_count": 0.0845070423
+  },
+  {
+    "name": "actress",
+    "type": "NN",
+    "count": 14.0,
+    "quantile_count": 0.5792253521
+  },
+  {
+    "name": "slick",
+    "type": "NN",
+    "count": 1.0,
+    "quantile_count": 0.0088028169
+  },
+  {
+    "name": "top",
+    "type": "JJ",
+    "count": 16.0,
+    "quantile_count": 0.610915493
+  },
+  {
+    "name": "brain",
+    "type": "NN",
+    "count": 11.0,
+    "quantile_count": 0.4947183099
+  },
+  {
+    "name": "kbs",
+    "type": "NN",
+    "count": 17.0,
+    "quantile_count": 0.639084507
+  },
+  {
+    "name": "alzheimers",
+    "type": "NNS",
+    "count": 3.0,
+    "quantile_count": 0.1919014085
+  },
+  {
+    "name": "horns",
+    "type": "NNS",
+    "count": 2.0,
+    "quantile_count": 0.0845070423
+  },
+  {
+    "name": "go",
+    "type": "NN",
+    "count": 2.0,
+    "quantile_count": 0.0845070423
+  },
+  {
+    "name": "follow",
+    "type": "JJ",
+    "count": 3.0,
+    "quantile_count": 0.1919014085
+  },
+  {
+    "name": "flavor",
+    "type": "JJ",
+    "count": 2.0,
+    "quantile_count": 0.0845070423
+  },
+  {
+    "name": "prince",
+    "type": "NN",
+    "count": 24.0,
+    "quantile_count": 0.7746478873
+  },
+  {
+    "name": "bunch",
+    "type": "NN",
+    "count": 2.0,
+    "quantile_count": 0.0845070423
+  },
+  {
+    "name": "lg",
+    "type": "NN",
+    "count": 25.0,
+    "quantile_count": 0.786971831
+  },
+  {
+    "name": "um",
+    "type": "JJ",
+    "count": 8.0,
+    "quantile_count": 0.4348591549
+  },
+  {
+    "name": "eun",
+    "type": "NN",
+    "count": 12.0,
+    "quantile_count": 0.5281690141
+  },
+  {
+    "name": "group",
+    "type": "NN",
+    "count": 5.0,
+    "quantile_count": 0.3309859155
+  },
+  {
+    "name": "choi",
+    "type": "NN",
+    "count": 6.0,
+    "quantile_count": 0.375
+  },
+  {
+    "name": "han",
+    "type": "NN",
+    "count": 9.0,
+    "quantile_count": 0.4577464789
+  },
+  {
+    "name": "jin",
+    "type": "NN",
+    "count": 26.0,
+    "quantile_count": 0.8028169014
+  },
+  {
+    "name": "bnr",
+    "type": "NN",
+    "count": 10.0,
+    "quantile_count": 0.4735915493
+  },
+  {
+    "name": "freelance",
+    "type": "NN",
+    "count": 6.0,
+    "quantile_count": 0.375
+  },
+  {
+    "name": "domicile",
+    "type": "NN",
+    "count": 17.0,
+    "quantile_count": 0.639084507
+  },
+  {
+    "name": "likeable",
+    "type": "JJ",
+    "count": 4.0,
+    "quantile_count": 0.2693661972
+  },
+  {
+    "name": "tp",
+    "type": "NN",
+    "count": 36.0,
+    "quantile_count": 0.8996478873
+  },
+  {
+    "name": "late",
+    "type": "JJ",
+    "count": 8.0,
+    "quantile_count": 0.4348591549
+  },
+  {
+    "name": "source",
+    "type": "NN",
+    "count": 13.0,
+    "quantile_count": 0.5545774648
+  },
+  {
+    "name": "school",
+    "type": "NN",
+    "count": 14.0,
+    "quantile_count": 0.5792253521
+  },
+  {
+    "name": "son",
+    "type": "NN",
+    "count": 20.0,
+    "quantile_count": 0.7112676056
+  },
+  {
+    "name": "rich",
+    "type": "JJ",
+    "count": 24.0,
+    "quantile_count": 0.7746478873
+  },
+  {
+    "name": "money",
+    "type": "NN",
+    "count": 20.0,
+    "quantile_count": 0.7112676056
+  },
+  {
+    "name": "weeks",
+    "type": "NNS",
+    "count": 23.0,
+    "quantile_count": 0.7588028169
+  },
+  {
+    "name": "east",
+    "type": "JJ",
+    "count": 2.0,
+    "quantile_count": 0.0845070423
+  },
+  {
+    "name": "quoteoriginal",
+    "type": "JJ",
+    "count": 14.0,
+    "quantile_count": 0.5792253521
+  },
+  {
+    "name": "indonesian",
+    "type": "JJ",
+    "count": 12.0,
+    "quantile_count": 0.5281690141
+  },
+  {
+    "name": "good",
+    "type": "JJ",
+    "count": 119.0,
+    "quantile_count": 0.9964788732
+  },
+  {
+    "name": "garden",
+    "type": "NN",
+    "count": 17.0,
+    "quantile_count": 0.639084507
+  },
+  {
+    "name": "song",
+    "type": "NN",
+    "count": 23.0,
+    "quantile_count": 0.7588028169
+  },
+  {
+    "name": "ya",
+    "type": "NN",
+    "count": 59.0,
+    "quantile_count": 0.9683098592
+  },
+  {
+    "name": "big",
+    "type": "JJ",
+    "count": 21.0,
+    "quantile_count": 0.7271126761
+  },
+  {
+    "name": "couple",
+    "type": "NN",
+    "count": 22.0,
+    "quantile_count": 0.7394366197
+  },
+  {
+    "name": "dah",
+    "type": "NN",
+    "count": 34.0,
+    "quantile_count": 0.8838028169
+  },
+  {
+    "name": "connects",
+    "type": "NNS",
+    "count": 1.0,
+    "quantile_count": 0.0088028169
+  },
+  {
+    "name": "choice",
+    "type": "NN",
+    "count": 13.0,
+    "quantile_count": 0.5545774648
+  },
+  {
+    "name": "iderospoiler",
+    "type": "NN",
+    "count": 2.0,
+    "quantile_count": 0.0845070423
+  },
+  {
+    "name": "junseo",
+    "type": "NN",
+    "count": 14.0,
+    "quantile_count": 0.5792253521
+  },
+  {
+    "name": "ambition",
+    "type": "NN",
+    "count": 14.0,
+    "quantile_count": 0.5792253521
+  },
+  {
+    "name": "kaskuser",
+    "type": "NN",
+    "count": 4.0,
+    "quantile_count": 0.2693661972
+  },
+  {
+    "name": "cool",
+    "type": "JJ",
+    "count": 30.0,
+    "quantile_count": 0.8450704225
+  },
+  {
+    "name": "articles",
+    "type": "NNS",
+    "count": 11.0,
+    "quantile_count": 0.4947183099
+  },
+  {
+    "name": "emg",
+    "type": "NN",
+    "count": 10.0,
+    "quantile_count": 0.4735915493
+  },
+  {
+    "name": "crisp",
+    "type": "JJ",
+    "count": 3.0,
+    "quantile_count": 0.1919014085
+  },
+  {
+    "name": "hye",
+    "type": "NN",
+    "count": 47.0,
+    "quantile_count": 0.9524647887
+  },
+  {
+    "name": "artist",
+    "type": "NN",
+    "count": 24.0,
+    "quantile_count": 0.7746478873
+  },
+  {
+    "name": "dramas",
+    "type": "NN",
+    "count": 19.0,
+    "quantile_count": 0.6883802817
+  },
+  {
+    "name": "ri",
+    "type": "NN",
+    "count": 4.0,
+    "quantile_count": 0.2693661972
+  },
+  {
+    "name": "queen",
+    "type": "JJ",
+    "count": 31.0,
+    "quantile_count": 0.8591549296
+  },
+  {
+    "name": "communications",
+    "type": "NNS",
+    "count": 2.0,
+    "quantile_count": 0.0845070423
+  },
+  {
+    "name": "bae",
+    "type": "NN",
+    "count": 19.0,
+    "quantile_count": 0.6883802817
+  },
+  {
+    "name": "clay",
+    "type": "NN",
+    "count": 18.0,
+    "quantile_count": 0.6654929577
+  },
+  {
+    "name": "husband",
+    "type": "NN",
+    "count": 3.0,
+    "quantile_count": 0.1919014085
+  },
+  {
+    "name": "hunter",
+    "type": "NN",
+    "count": 19.0,
+    "quantile_count": 0.6883802817
+  },
+  {
+    "name": "j",
+    "type": "NN",
+    "count": 81.0,
+    "quantile_count": 0.9823943662
+  },
+  {
+    "name": "daughterinlaw",
+    "type": "NN",
+    "count": 2.0,
+    "quantile_count": 0.0845070423
+  },
+  {
+    "name": "comatose",
+    "type": "JJ",
+    "count": 2.0,
+    "quantile_count": 0.0845070423
+  },
+  {
+    "name": "hyun",
+    "type": "NN",
+    "count": 14.0,
+    "quantile_count": 0.5792253521
+  },
+  {
+    "name": "house",
+    "type": "NN",
+    "count": 37.0,
+    "quantile_count": 0.9066901408
+  },
+  {
+    "name": "twitter",
+    "type": "NN",
+    "count": 23.0,
+    "quantile_count": 0.7588028169
+  },
+  {
+    "name": "plot",
+    "type": "NN",
+    "count": 14.0,
+    "quantile_count": 0.5792253521
+  },
+  {
+    "name": "nih",
+    "type": "JJ",
+    "count": 30.0,
+    "quantile_count": 0.8450704225
+  },
+  {
+    "name": "ensetya",
+    "type": "JJ",
+    "count": 6.0,
+    "quantile_count": 0.375
+  },
+  {
+    "name": "sex",
+    "type": "NN",
+    "count": 18.0,
+    "quantile_count": 0.6654929577
+  },
+  {
+    "name": "erotic",
+    "type": "JJ",
+    "count": 1.0,
+    "quantile_count": 0.0088028169
+  },
+  {
+    "name": "korea",
+    "type": "NN",
+    "count": 16.0,
+    "quantile_count": 0.610915493
+  },
+  {
+    "name": "examples",
+    "type": "NNS",
+    "count": 4.0,
+    "quantile_count": 0.2693661972
+  },
+  {
+    "name": "lawyer",
+    "type": "NN",
+    "count": 9.0,
+    "quantile_count": 0.4577464789
+  },
+  {
+    "name": "kata",
+    "type": "NNS",
+    "count": 6.0,
+    "quantile_count": 0.375
+  },
+  {
+    "name": "images",
+    "type": "NNS",
+    "count": 4.0,
+    "quantile_count": 0.2693661972
+  },
+  {
+    "name": "home",
+    "type": "NN",
+    "count": 38.0,
+    "quantile_count": 0.9137323944
+  },
+  {
+    "name": "girl",
+    "type": "NN",
+    "count": 44.0,
+    "quantile_count": 0.9348591549
+  },
+  {
+    "name": "nongton",
+    "type": "NN",
+    "count": 6.0,
+    "quantile_count": 0.375
+  },
+  {
+    "name": "ep",
+    "type": "NN",
+    "count": 18.0,
+    "quantile_count": 0.6654929577
+  },
+  {
+    "name": "best",
+    "type": "JJS",
+    "count": 40.0,
+    "quantile_count": 0.9225352113
+  },
+  {
+    "name": "cinematographic",
+    "type": "JJ",
+    "count": 2.0,
+    "quantile_count": 0.0845070423
+  },
+  {
+    "name": "nntn",
+    "type": "JJ",
+    "count": 12.0,
+    "quantile_count": 0.5281690141
+  },
+  {
+    "name": "lovers",
+    "type": "NNS",
+    "count": 7.0,
+    "quantile_count": 0.4102112676
+  },
+  {
+    "name": "cover",
+    "type": "NN",
+    "count": 4.0,
+    "quantile_count": 0.2693661972
+  },
+  {
+    "name": "entertainment",
+    "type": "NN",
+    "count": 3.0,
+    "quantile_count": 0.1919014085
+  },
+  {
+    "name": "movie",
+    "type": "NN",
+    "count": 60.0,
+    "quantile_count": 0.9718309859
+  },
+  {
+    "name": "review",
+    "type": "NN",
+    "count": 9.0,
+    "quantile_count": 0.4577464789
+  },
+  {
+    "name": "jisuk",
+    "type": "NN",
+    "count": 2.0,
+    "quantile_count": 0.0845070423
+  },
+  {
+    "name": "httpwwwdramafansorgwatchishsubpart",
+    "type": "JJ",
+    "count": 2.0,
+    "quantile_count": 0.0845070423
+  },
+  {
+    "name": "anniversary",
+    "type": "JJ",
+    "count": 2.0,
+    "quantile_count": 0.0845070423
+  },
+  {
+    "name": "comments",
+    "type": "NNS",
+    "count": 5.0,
+    "quantile_count": 0.3309859155
+  },
+  {
+    "name": "moon",
+    "type": "NN",
+    "count": 39.0,
+    "quantile_count": 0.9190140845
+  },
+  {
+    "name": "content",
+    "type": "JJ",
+    "count": 6.0,
+    "quantile_count": 0.375
+  },
+  {
+    "name": "memories",
+    "type": "NNS",
+    "count": 4.0,
+    "quantile_count": 0.2693661972
+  },
+  {
+    "name": "enough",
+    "type": "JJ",
+    "count": 2.0,
+    "quantile_count": 0.0845070423
+  },
+  {
+    "name": "tahun",
+    "type": "NN",
+    "count": 7.0,
+    "quantile_count": 0.4102112676
+  },
+  {
+    "name": "aja",
+    "type": "NN",
+    "count": 70.0,
+    "quantile_count": 0.9771126761
+  },
+  {
+    "name": "conditions",
+    "type": "NNS",
+    "count": 5.0,
+    "quantile_count": 0.3309859155
+  },
+  {
+    "name": "email",
+    "type": "NN",
+    "count": 19.0,
+    "quantile_count": 0.6883802817
+  },
+  {
+    "name": "body",
+    "type": "NN",
+    "count": 5.0,
+    "quantile_count": 0.3309859155
+  },
+  {
+    "name": "sbs",
+    "type": "NN",
+    "count": 8.0,
+    "quantile_count": 0.4348591549
+  },
+  {
+    "name": "full",
+    "type": "JJ",
+    "count": 31.0,
+    "quantile_count": 0.8591549296
+  },
+  {
+    "name": "tomorrow",
+    "type": "NN",
+    "count": 8.0,
+    "quantile_count": 0.4348591549
+  },
+  {
+    "name": "lee",
+    "type": "NN",
+    "count": 82.0,
+    "quantile_count": 0.985915493
+  },
+  {
+    "name": "nge",
+    "type": "NN",
+    "count": 4.0,
+    "quantile_count": 0.2693661972
+  },
+  {
+    "name": "bo",
+    "type": "NN",
+    "count": 11.0,
+    "quantile_count": 0.4947183099
+  },
+  {
+    "name": "name",
+    "type": "NN",
+    "count": 26.0,
+    "quantile_count": 0.8028169014
+  },
+  {
+    "name": "boss",
+    "type": "NN",
+    "count": 6.0,
+    "quantile_count": 0.375
+  },
+  {
+    "name": "apartment",
+    "type": "NN",
+    "count": 2.0,
+    "quantile_count": 0.0845070423
+  },
+  {
+    "name": "ji",
+    "type": "NN",
+    "count": 32.0,
+    "quantile_count": 0.8679577465
+  },
+  {
+    "name": "besides",
+    "type": "NNS",
+    "count": 2.0,
+    "quantile_count": 0.0845070423
+  },
+  {
+    "name": "ask",
+    "type": "NN",
+    "count": 15.0,
+    "quantile_count": 0.5950704225
+  },
+  {
+    "name": "article",
+    "type": "NN",
+    "count": 16.0,
+    "quantile_count": 0.610915493
+  },
+  {
+    "name": "post",
+    "type": "NN",
+    "count": 17.0,
+    "quantile_count": 0.639084507
+  },
+  {
+    "name": "jg",
+    "type": "NN",
+    "count": 70.0,
+    "quantile_count": 0.9771126761
+  },
+  {
+    "name": "come",
+    "type": "NN",
+    "count": 2.0,
+    "quantile_count": 0.0845070423
+  },
+  {
+    "name": "httpwwwindowebstercomhummingdvdbifossrthtml",
+    "type": "NN",
+    "count": 2.0,
+    "quantile_count": 0.0845070423
+  },
+  {
+    "name": "joo",
+    "type": "NN",
+    "count": 18.0,
+    "quantile_count": 0.6654929577
+  },
+  {
+    "name": "c",
+    "type": "NN",
+    "count": 3.0,
+    "quantile_count": 0.1919014085
+  },
+  {
+    "name": "last",
+    "type": "JJ",
+    "count": 30.0,
+    "quantile_count": 0.8450704225
+  },
+  {
+    "name": "attacks",
+    "type": "NNS",
+    "count": 3.0,
+    "quantile_count": 0.1919014085
+  },
+  {
+    "name": "many",
+    "type": "JJ",
+    "count": 41.0,
+    "quantile_count": 0.926056338
+  },
+  {
+    "name": "favorite",
+    "type": "JJ",
+    "count": 42.0,
+    "quantile_count": 0.9295774648
+  },
+  {
+    "name": "days",
+    "type": "NNS",
+    "count": 30.0,
+    "quantile_count": 0.8450704225
+  },
+  {
+    "name": "brooo",
+    "type": "NN",
+    "count": 1.0,
+    "quantile_count": 0.0088028169
+  },
+  {
+    "name": "s",
+    "type": "NN",
+    "count": 130.0,
+    "quantile_count": 1.0
+  },
+  {
+    "name": "miyeon",
+    "type": "NN",
+    "count": 22.0,
+    "quantile_count": 0.7394366197
+  },
+  {
+    "name": "lo",
+    "type": "NN",
+    "count": 4.0,
+    "quantile_count": 0.2693661972
+  },
+  {
+    "name": "contribution",
+    "type": "NN",
+    "count": 2.0,
+    "quantile_count": 0.0845070423
+  },
+  {
+    "name": "finds",
+    "type": "NNS",
+    "count": 2.0,
+    "quantile_count": 0.0845070423
+  },
+  {
+    "name": "first",
+    "type": "JJ",
+    "count": 18.0,
+    "quantile_count": 0.6654929577
+  },
+  {
+    "name": "comment",
+    "type": "NN",
+    "count": 4.0,
+    "quantile_count": 0.2693661972
+  },
+  {
+    "name": "golden",
+    "type": "JJ",
+    "count": 12.0,
+    "quantile_count": 0.5281690141
+  },
+  {
+    "name": "filmya",
+    "type": "NN",
+    "count": 2.0,
+    "quantile_count": 0.0845070423
+  },
+  {
+    "name": "love",
+    "type": "NN",
+    "count": 28.0,
+    "quantile_count": 0.8274647887
+  },
+  {
+    "name": "family",
+    "type": "NN",
+    "count": 47.0,
+    "quantile_count": 0.9524647887
+  },
+  {
+    "name": "extra",
+    "type": "JJ",
+    "count": 3.0,
+    "quantile_count": 0.1919014085
+  },
+  {
+    "name": "communication",
+    "type": "NN",
+    "count": 2.0,
+    "quantile_count": 0.0845070423
+  },
+  {
+    "name": "image",
+    "type": "NN",
+    "count": 7.0,
+    "quantile_count": 0.4102112676
+  },
+  {
+    "name": "shark",
+    "type": "NN",
+    "count": 20.0,
+    "quantile_count": 0.7112676056
+  },
+  {
+    "name": "soo",
+    "type": "NN",
+    "count": 22.0,
+    "quantile_count": 0.7394366197
+  },
+  {
+    "name": "mbc",
+    "type": "NN",
+    "count": 3.0,
+    "quantile_count": 0.1919014085
+  },
+  {
+    "name": "active",
+    "type": "JJ",
+    "count": 5.0,
+    "quantile_count": 0.3309859155
+  },
+  {
+    "name": "filmspoiler",
+    "type": "NN",
+    "count": 2.0,
+    "quantile_count": 0.0845070423
+  },
+  {
+    "name": "dong",
+    "type": "JJ",
+    "count": 25.0,
+    "quantile_count": 0.786971831
+  },
+  {
+    "name": "artists",
+    "type": "NNS",
+    "count": 4.0,
+    "quantile_count": 0.2693661972
+  },
+  {
+    "name": "bizarre",
+    "type": "JJ",
+    "count": 2.0,
+    "quantile_count": 0.0845070423
+  },
+  {
+    "name": "maen",
+    "type": "NN",
+    "count": 22.0,
+    "quantile_count": 0.7394366197
+  },
+  {
+    "name": "forums",
+    "type": "NNS",
+    "count": 5.0,
+    "quantile_count": 0.3309859155
+  },
+  {
+    "name": "jihye",
+    "type": "NN",
+    "count": 3.0,
+    "quantile_count": 0.1919014085
+  },
+  {
+    "name": "city",
+    "type": "NN",
+    "count": 20.0,
+    "quantile_count": 0.7112676056
+  },
+  {
+    "name": "little",
+    "type": "JJ",
+    "count": 20.0,
+    "quantile_count": 0.7112676056
+  },
+  {
+    "name": "fee",
+    "type": "NN",
+    "count": 5.0,
+    "quantile_count": 0.3309859155
+  },
+  {
+    "name": "interesting",
+    "type": "JJ",
+    "count": 4.0,
+    "quantile_count": 0.2693661972
+  },
+  {
+    "name": "cheonhee",
+    "type": "NN",
+    "count": 2.0,
+    "quantile_count": 0.0845070423
+  },
+  {
+    "name": "hospital",
+    "type": "NN",
+    "count": 4.0,
+    "quantile_count": 0.2693661972
+  },
+  {
+    "name": "night",
+    "type": "NN",
+    "count": 7.0,
+    "quantile_count": 0.4102112676
+  },
+  {
+    "name": "direction",
+    "type": "NN",
+    "count": 3.0,
+    "quantile_count": 0.1919014085
+  },
+  {
+    "name": "secret",
+    "type": "JJ",
+    "count": 18.0,
+    "quantile_count": 0.6654929577
+  },
+  {
+    "name": "long",
+    "type": "JJ",
+    "count": 8.0,
+    "quantile_count": 0.4348591549
+  },
+  {
+    "name": "princess",
+    "type": "NN",
+    "count": 26.0,
+    "quantile_count": 0.8028169014
+  },
+  {
+    "name": "hee",
+    "type": "NN",
+    "count": 12.0,
+    "quantile_count": 0.5281690141
+  },
+  {
+    "name": "live",
+    "type": "JJ",
+    "count": 3.0,
+    "quantile_count": 0.1919014085
+  },
+  {
+    "name": "doubt",
+    "type": "NN",
+    "count": 2.0,
+    "quantile_count": 0.0845070423
+  },
+  {
+    "name": "master",
+    "type": "NN",
+    "count": 12.0,
+    "quantile_count": 0.5281690141
+  },
+  {
+    "name": "way",
+    "type": "NN",
+    "count": 11.0,
+    "quantile_count": 0.4947183099
+  },
+  {
+    "name": "miyeons",
+    "type": "NNS",
+    "count": 4.0,
+    "quantile_count": 0.2693661972
+  },
+  {
+    "name": "films",
+    "type": "NNS",
+    "count": 5.0,
+    "quantile_count": 0.3309859155
+  },
+  {
+    "name": "jang",
+    "type": "NN",
+    "count": 26.0,
+    "quantile_count": 0.8028169014
+  },
+  {
+    "name": "baek",
+    "type": "NN",
+    "count": 11.0,
+    "quantile_count": 0.4947183099
+  },
+  {
+    "name": "akan",
+    "type": "JJ",
+    "count": 4.0,
+    "quantile_count": 0.2693661972
+  },
+  {
+    "name": "life",
+    "type": "NN",
+    "count": 7.0,
+    "quantile_count": 0.4102112676
+  },
+  {
+    "name": "dear",
+    "type": "JJ",
+    "count": 6.0,
+    "quantile_count": 0.375
+  },
+  {
+    "name": "please",
+    "type": "NN",
+    "count": 11.0,
+    "quantile_count": 0.4947183099
+  },
+  {
+    "name": "relationship",
+    "type": "NN",
+    "count": 14.0,
+    "quantile_count": 0.5792253521
+  },
+  {
+    "name": "jung",
+    "type": "NN",
+    "count": 37.0,
+    "quantile_count": 0.9066901408
+  },
+  {
+    "name": "poster",
+    "type": "NN",
+    "count": 3.0,
+    "quantile_count": 0.1919014085
+  },
+  {
+    "name": "chul",
+    "type": "NN",
+    "count": 6.0,
+    "quantile_count": 0.375
+  },
+  {
+    "name": "jonghak",
+    "type": "NN",
+    "count": 2.0,
+    "quantile_count": 0.0845070423
+  },
+  {
+    "name": "park",
+    "type": "NN",
+    "count": 26.0,
+    "quantile_count": 0.8028169014
+  },
+  {
+    "name": "moment",
+    "type": "NN",
+    "count": 17.0,
+    "quantile_count": 0.639084507
+  },
+  {
+    "name": "woo",
+    "type": "NN",
+    "count": 16.0,
+    "quantile_count": 0.610915493
+  },
+  {
+    "name": "hear",
+    "type": "JJ",
+    "count": 28.0,
+    "quantile_count": 0.8274647887
+  },
+  {
+    "name": "keren",
+    "type": "NNS",
+    "count": 4.0,
+    "quantile_count": 0.2693661972
+  },
+  {
+    "name": "yes",
+    "type": "NNS",
+    "count": 25.0,
+    "quantile_count": 0.786971831
+  },
+  {
+    "name": "ok",
+    "type": "JJ",
+    "count": 17.0,
+    "quantile_count": 0.639084507
+  },
+  {
+    "name": "loveismydream",
+    "type": "JJ",
+    "count": 4.0,
+    "quantile_count": 0.2693661972
+  },
+  {
+    "name": "soowan",
+    "type": "NN",
+    "count": 3.0,
+    "quantile_count": 0.1919014085
+  },
+  {
+    "name": "housewives",
+    "type": "NNS",
+    "count": 5.0,
+    "quantile_count": 0.3309859155
+  },
+  {
+    "name": "indosiar",
+    "type": "NN",
+    "count": 13.0,
+    "quantile_count": 0.5545774648
+  },
+  {
+    "name": "account",
+    "type": "NN",
+    "count": 3.0,
+    "quantile_count": 0.1919014085
+  },
+  {
+    "name": "depressed",
+    "type": "JJ",
+    "count": 2.0,
+    "quantile_count": 0.0845070423
+  },
+  {
+    "name": "leave",
+    "type": "JJ",
+    "count": 3.0,
+    "quantile_count": 0.1919014085
+  },
+  {
+    "name": "klo",
+    "type": "NN",
+    "count": 34.0,
+    "quantile_count": 0.8838028169
+  },
+  {
+    "name": "udh",
+    "type": "JJ",
+    "count": 21.0,
+    "quantile_count": 0.7271126761
+  },
+  {
+    "name": "agan",
+    "type": "JJ",
+    "count": 31.0,
+    "quantile_count": 0.8591549296
+  },
+  {
+    "name": "sujin",
+    "type": "JJ",
+    "count": 6.0,
+    "quantile_count": 0.375
+  },
+  {
+    "name": "n",
+    "type": "JJ",
+    "count": 11.0,
+    "quantile_count": 0.4947183099
+  },
+  {
+    "name": "deh",
+    "type": "NN",
+    "count": 44.0,
+    "quantile_count": 0.9348591549
+  },
+  {
+    "name": "cast",
+    "type": "NN",
+    "count": 9.0,
+    "quantile_count": 0.4577464789
+  },
+  {
+    "name": "era",
+    "type": "NN",
+    "count": 5.0,
+    "quantile_count": 0.3309859155
+  },
+  {
+    "name": "attention",
+    "type": "NN",
+    "count": 3.0,
+    "quantile_count": 0.1919014085
+  },
+  {
+    "name": "lover",
+    "type": "NN",
+    "count": 3.0,
+    "quantile_count": 0.1919014085
+  },
+  {
+    "name": "di",
+    "type": "NN",
+    "count": 16.0,
+    "quantile_count": 0.610915493
+  },
+  {
+    "name": "voice",
+    "type": "NN",
+    "count": 36.0,
+    "quantile_count": 0.8996478873
+  },
+  {
+    "name": "suzy",
+    "type": "NN",
+    "count": 19.0,
+    "quantile_count": 0.6883802817
+  },
+  {
+    "name": "beautiful",
+    "type": "JJ",
+    "count": 16.0,
+    "quantile_count": 0.610915493
+  },
+  {
+    "name": "heart",
+    "type": "NN",
+    "count": 13.0,
+    "quantile_count": 0.5545774648
+  },
+  {
+    "name": "crazy",
+    "type": null,
+    "count": null,
+    "quantile_count": null
+  },
+  {
+    "name": "shin",
+    "type": "JJ",
+    "count": 34.0,
+    "quantile_count": 0.8838028169
+  },
+  {
+    "name": "ad",
+    "type": "NN",
+    "count": 28.0,
+    "quantile_count": 0.8274647887
+  },
+  {
+    "name": "chae",
+    "type": "NN",
+    "count": 20.0,
+    "quantile_count": 0.7112676056
+  },
+  {
+    "name": "ah",
+    "type": "NN",
+    "count": 16.0,
+    "quantile_count": 0.610915493
+  },
+  {
+    "name": "jumong",
+    "type": "NN",
+    "count": 3.0,
+    "quantile_count": 0.1919014085
+  },
+  {
+    "name": "eyes",
+    "type": "NNS",
+    "count": 12.0,
+    "quantile_count": 0.5281690141
+  },
+  {
+    "name": "bca",
+    "type": null,
+    "count": null,
+    "quantile_count": null
+  },
+  {
+    "name": "high",
+    "type": "JJ",
+    "count": 35.0,
+    "quantile_count": 0.8926056338
+  },
+  {
+    "name": "download",
+    "type": "NN",
+    "count": 33.0,
+    "quantile_count": 0.875
+  },
+  {
+    "name": "ini",
+    "type": "NN",
+    "count": 9.0,
+    "quantile_count": 0.4577464789
+  },
+  {
+    "name": "dignity",
+    "type": "NN",
+    "count": 19.0,
+    "quantile_count": 0.6883802817
+  },
+  {
+    "name": "helpless",
+    "type": "NN",
+    "count": 2.0,
+    "quantile_count": 0.0845070423
+  },
+  {
+    "name": "film",
+    "type": "NN",
+    "count": 27.0,
+    "quantile_count": 0.8151408451
+  },
+  {
+    "name": "grown",
+    "type": "NN",
+    "count": 2.0,
+    "quantile_count": 0.0845070423
+  },
+  {
+    "name": "funny",
+    "type": "JJ",
+    "count": 17.0,
+    "quantile_count": 0.639084507
+  },
+  {
+    "name": "different",
+    "type": "JJ",
+    "count": 16.0,
+    "quantile_count": 0.610915493
+  },
+  {
+    "name": "end",
+    "type": "NN",
+    "count": 12.0,
+    "quantile_count": 0.5281690141
+  },
+  {
+    "name": "winter",
+    "type": "NN",
+    "count": 22.0,
+    "quantile_count": 0.7394366197
+  },
+  {
+    "name": "etc",
+    "type": "NN",
+    "count": 6.0,
+    "quantile_count": 0.375
+  },
+  {
+    "name": "comfort",
+    "type": "NN",
+    "count": 2.0,
+    "quantile_count": 0.0845070423
+  },
+  {
+    "name": "able",
+    "type": "JJ",
+    "count": 7.0,
+    "quantile_count": 0.4102112676
+  },
+  {
+    "name": "actor",
+    "type": "NN",
+    "count": 18.0,
+    "quantile_count": 0.6654929577
+  },
+  {
+    "name": "dapat",
+    "type": "NN",
+    "count": 3.0,
+    "quantile_count": 0.1919014085
+  },
+  {
+    "name": "romance",
+    "type": "NN",
+    "count": 50.0,
+    "quantile_count": 0.963028169
+  },
+  {
+    "name": "book",
+    "type": "NN",
+    "count": 23.0,
+    "quantile_count": 0.7588028169
+  },
+  {
+    "name": "jong",
+    "type": "JJ",
+    "count": 5.0,
+    "quantile_count": 0.3309859155
+  },
+  {
+    "name": "new",
+    "type": "JJ",
+    "count": 92.0,
+    "quantile_count": 0.9929577465
+  },
+  {
+    "name": "korean",
+    "type": "JJ",
+    "count": 89.0,
+    "quantile_count": 0.9894366197
+  },
+  {
+    "name": "comedy",
+    "type": "NN",
+    "count": 45.0,
+    "quantile_count": 0.9401408451
+  },
+  {
+    "name": "sin",
+    "type": "NN",
+    "count": 7.0,
+    "quantile_count": 0.4102112676
+  },
+  {
+    "name": "nice",
+    "type": "JJ",
+    "count": 47.0,
+    "quantile_count": 0.9524647887
+  },
+  {
+    "name": "mas",
+    "type": "NN",
+    "count": 3.0,
+    "quantile_count": 0.1919014085
+  },
+  {
+    "name": "yoon",
+    "type": "NN",
+    "count": 25.0,
+    "quantile_count": 0.786971831
+  },
+  {
+    "name": "okay",
+    "type": "NN",
+    "count": 8.0,
+    "quantile_count": 0.4348591549
+  },
+  {
+    "name": "crashes",
+    "type": "NNS",
+    "count": 4.0,
+    "quantile_count": 0.2693661972
+  },
+  {
+    "name": "ni",
+    "type": "JJ",
+    "count": 23.0,
+    "quantile_count": 0.7588028169
+  },
+  {
+    "name": "bride",
+    "type": "NN",
+    "count": 4.0,
+    "quantile_count": 0.2693661972
+  },
+  {
+    "name": "monstar",
+    "type": "NN",
+    "count": 11.0,
+    "quantile_count": 0.4947183099
+  },
+  {
+    "name": "arctic",
+    "type": "NN",
+    "count": 2.0,
+    "quantile_count": 0.0845070423
+  },
+  {
+    "name": "time",
+    "type": "NN",
+    "count": 46.0,
+    "quantile_count": 0.9436619718
+  },
+  {
+    "name": "kaskerus",
+    "type": "NN",
+    "count": 2.0,
+    "quantile_count": 0.0845070423
+  },
+  {
+    "name": "donation",
+    "type": "NN",
+    "count": 5.0,
+    "quantile_count": 0.3309859155
+  },
+  {
+    "name": "kim",
+    "type": "NN",
+    "count": 47.0,
+    "quantile_count": 0.9524647887
+  },
+  {
+    "name": "device",
+    "type": "NN",
+    "count": 4.0,
+    "quantile_count": 0.2693661972
+  },
+  {
+    "name": "information",
+    "type": "NN",
+    "count": 3.0,
+    "quantile_count": 0.1919014085
+  },
+  {
+    "name": "friends",
+    "type": "NNS",
+    "count": 7.0,
+    "quantile_count": 0.4102112676
+  },
+  {
+    "name": "efforts",
+    "type": "NNS",
+    "count": 2.0,
+    "quantile_count": 0.0845070423
+  },
+  {
+    "name": "bener",
+    "type": "NN",
+    "count": 23.0,
+    "quantile_count": 0.7588028169
+  },
+  {
+    "name": "man",
+    "type": "NN",
+    "count": 38.0,
+    "quantile_count": 0.9137323944
+  },
+  {
+    "name": "ghost",
+    "type": "NN",
+    "count": 28.0,
+    "quantile_count": 0.8274647887
+  },
+  {
+    "name": "httpwwwindowebstercomhummingdvxvidbifoshtml",
+    "type": "NN",
+    "count": 2.0,
+    "quantile_count": 0.0845070423
+  },
+  {
+    "name": "neh",
+    "type": "JJ",
+    "count": 12.0,
+    "quantile_count": 0.5281690141
+  },
+  {
+    "name": "wife",
+    "type": "NN",
+    "count": 17.0,
+    "quantile_count": 0.639084507
+  },
+  {
+    "name": "terms",
+    "type": "NNS",
+    "count": 11.0,
+    "quantile_count": 0.4947183099
+  },
+  {
+    "name": "doctor",
+    "type": "NN",
+    "count": 50.0,
+    "quantile_count": 0.963028169
+  },
+  {
+    "name": "favorit",
+    "type": "NN",
+    "count": 20.0,
+    "quantile_count": 0.7112676056
+  },
+  {
+    "name": "disease",
+    "type": "NN",
+    "count": 6.0,
+    "quantile_count": 0.375
+  },
+  {
+    "name": "face",
+    "type": "NN",
+    "count": 5.0,
+    "quantile_count": 0.3309859155
+  },
+  {
+    "name": "q",
+    "type": "NN",
+    "count": 13.0,
+    "quantile_count": 0.5545774648
+  },
+  {
+    "name": "kah",
+    "type": "NN",
+    "count": 2.0,
+    "quantile_count": 0.0845070423
+  },
+  {
+    "name": "ahjussi",
+    "type": "JJ",
+    "count": 4.0,
+    "quantile_count": 0.2693661972
+  },
+  {
+    "name": "sm",
+    "type": "NN",
+    "count": 27.0,
+    "quantile_count": 0.8151408451
+  },
+  {
+    "name": "sun",
+    "type": "NN",
+    "count": 30.0,
+    "quantile_count": 0.8450704225
+  },
+  {
+    "name": "ato",
+    "type": "JJ",
+    "count": 9.0,
+    "quantile_count": 0.4577464789
+  },
+  {
+    "name": "lives",
+    "type": "NNS",
+    "count": 2.0,
+    "quantile_count": 0.0845070423
+  },
+  {
+    "name": "dream",
+    "type": "NN",
+    "count": 35.0,
+    "quantile_count": 0.8926056338
+  },
+  {
+    "name": "wind",
+    "type": "NN",
+    "count": 13.0,
+    "quantile_count": 0.5545774648
+  }
+]
